@@ -39,14 +39,10 @@
             "id": "8dd95711e04388c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lexeme.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lexeme"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -204,11 +200,13 @@
   },
   "active": "8dd95711e04388c3",
   "lastOpenFiles": [
+    "lexeme.md",
+    "non-compositional meaning.md",
+    "morpheme.md",
     "word.md",
     "syllable.md",
     "README.md",
     "phraseme.md",
-    "lexeme.md",
     "Les accents éàë$.md",
     "New file.md"
   ]

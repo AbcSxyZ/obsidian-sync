@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Les accents éàë$.md",
+                "file": "lexeme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Les accents éàë$"
+              "title": "lexeme"
             }
           }
         ],
@@ -204,8 +204,12 @@
   },
   "active": "8dd95711e04388c3",
   "lastOpenFiles": [
-    "New file.md",
+    "word.md",
+    "syllable.md",
+    "README.md",
+    "phraseme.md",
+    "lexeme.md",
     "Les accents éàë$.md",
-    "README.md"
+    "New file.md"
   ]
 }

@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b220c177de780d76",
+        "id": "9b47caa955f59f7c",
         "type": "tabs",
         "children": [
           {
-            "id": "e73feb7d30285b0a",
+            "id": "fb791e0fca16b7ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "8d71ba9fc6795a81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New file.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "New file"
-            }
-          },
-          {
-            "id": "8dd95711e04388c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Les accents éàë$.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Les accents éàë$"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,10 +169,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8dd95711e04388c3",
+  "active": "fb791e0fca16b7ae",
   "lastOpenFiles": [
-    "New file.md",
     "Les accents éàë$.md",
-    "README.md"
+    "morpheme.md",
+    "Open models.md",
+    "New file.md",
+    "Untitled",
+    "README.md",
+    "lexeme.md",
+    "non-compositional meaning.md",
+    "conflict-files-obsidian-git.md",
+    "word.md",
+    "syllable.md",
+    "phraseme.md"
   ]
 }
